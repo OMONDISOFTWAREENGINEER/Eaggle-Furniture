@@ -8,7 +8,7 @@ import Renovation from './pages/Renovation';
 import About from './pages/About';
 import Contact from './pages/Contact';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './assets/styles/custom.css';
+
 
 function App() {
   return (
